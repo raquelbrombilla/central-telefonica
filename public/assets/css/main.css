@@ -1,0 +1,53 @@
+/* 
+    MENU 
+*/
+
+.menu{
+    background-color: #2c8992;
+}
+
+.container-content{
+    margin-top: 3rem!important;
+}
+
+/* 
+    GERAIS 
+*/
+
+.btn-outline-primary{
+    color: #2c8992;
+    border-color: #2c8992;
+}
+
+.btn-outline-primary:hover{
+    color: #fff;
+    background-color: #2c8992;
+    border-color: #2c8992;
+}
+
+label.error{
+    font-size: 12px;
+    color: #e70000;
+}
+
+.obs_ramal{
+    font-size: 12px;
+    color: #626262;
+}
+
+/* 
+    SWEETALERT     
+*/
+
+.swal2-confirm{
+    background: #4caf50!important;
+}
+
+.swal2-cancel{
+    background: #9b9b9b!important;
+}
+
+.swal2-icon.swal2-warning {
+    border-color: #f44336!important;
+    color: #f44336!important;
+}
